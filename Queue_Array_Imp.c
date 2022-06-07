@@ -75,7 +75,7 @@ void traverse()
 }
 int main()
 {
-    printf("WELCOME TO QUEUE IMPLEMENTATION OF ARRAY\n");
+    printf("WELCOME TO ARRAY IMPLEMENTATION OF QUEUE\n");
     int ch, x;
     do
     {
